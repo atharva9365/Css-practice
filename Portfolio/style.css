@@ -1,0 +1,114 @@
+body{
+    background-color: white;
+    color:black;
+    /* text-shadow: 10px 15px 15px black; */
+    height: 300vh;
+    padding-left: 150px;
+}
+
+.image{
+    font-size: 150px;
+    padding-right: 100px;
+    color: black;
+}
+.button{
+   /*  box-shadow: 15px 20px 5px blue; */
+    background-color: aliceblue;
+}
+.button2{
+    /* box-shadow: 15px 20px 5px blue; */
+    background-color: aliceblue;
+}
+
+.atharva{
+    height: auto;
+    width: 250px;
+}
+.Work{
+    padding-left: 80px;
+}
+.Project{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.Project2{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.name{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.name2{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.Project3{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.Project4{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.name3{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.name4{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.Project5{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.Project6{
+    display: inline-block;
+    style=height: 500px;
+    width: 600px;
+}
+.name5{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.name6{
+    margin-left: 90px;
+    margin-bottom:20px;
+}
+.img1{
+    height: 400px;
+    width: 400px;
+}
+.img2{
+    height: 400px;
+    width: 400px;
+}
+.img3{
+    height: 400px;
+    width: 400px;
+}
+.img4{
+    height: 400px;
+    width: 400px;
+}
+.img5{
+    height: 400px;
+    width: 400px;
+}
+.img6{
+    height: 400px;
+    width: 400px;
+}
+.img7{
+    height: 400px;
+    width: 400px;
+}
+.about{
+    
+}
